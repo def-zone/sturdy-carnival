@@ -1,6 +1,7 @@
 import { Link, Route, Switch } from "react-router-dom";
 import { Menu } from "./components/menu";
 import { Search } from "./components/search";
+import { CustomizeTheme } from "./components/UI/customize-theme";
 import { GettingStarted } from "./pages/getting-started";
 import { ReleaseNotes } from "./pages/release-notes";
 
@@ -21,6 +22,7 @@ function App() {
         </div>
         <Switch>
           <Route exact path="/release-notes"><ReleaseNotes/></Route>
+          <Route exact path="/customize-theme"><CustomizeTheme/></Route>
           <Route exact path="/"><GettingStarted/></Route>
         </Switch>
       </div>
