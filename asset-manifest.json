@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sturdy-carnival/static/css/main.126264ea.chunk.css",
+    "main.js": "/sturdy-carnival/static/js/main.07777d0f.chunk.js",
+    "main.js.map": "/sturdy-carnival/static/js/main.07777d0f.chunk.js.map",
+    "runtime-main.js": "/sturdy-carnival/static/js/runtime-main.43f7f91a.js",
+    "runtime-main.js.map": "/sturdy-carnival/static/js/runtime-main.43f7f91a.js.map",
+    "static/js/2.e73e8b16.chunk.js": "/sturdy-carnival/static/js/2.e73e8b16.chunk.js",
+    "static/js/2.e73e8b16.chunk.js.map": "/sturdy-carnival/static/js/2.e73e8b16.chunk.js.map",
+    "static/js/3.6a0040d9.chunk.js": "/sturdy-carnival/static/js/3.6a0040d9.chunk.js",
+    "static/js/3.6a0040d9.chunk.js.map": "/sturdy-carnival/static/js/3.6a0040d9.chunk.js.map",
+    "index.html": "/sturdy-carnival/index.html",
+    "static/css/main.126264ea.chunk.css.map": "/sturdy-carnival/static/css/main.126264ea.chunk.css.map",
+    "static/js/2.e73e8b16.chunk.js.LICENSE.txt": "/sturdy-carnival/static/js/2.e73e8b16.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43f7f91a.js",
+    "static/js/2.e73e8b16.chunk.js",
+    "static/css/main.126264ea.chunk.css",
+    "static/js/main.07777d0f.chunk.js"
+  ]
+}
